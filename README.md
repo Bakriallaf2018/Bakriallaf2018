@@ -1,13 +1,10 @@
 # Bakriallaf2018
 يوتيوب: Bakriallaf2018
-name: Bakriallaf2018PetMenu
+YouTube: Bakriallaf2018
 
-main: Bakriallaf2018\Bakriallaf2018PetMenu\Main
+Link me Channel: https://m.youtube.com/channel/UCbWLX-QMInJrg4VSiLVPK-Q
 
-version: "1.0"
 
-author: Bakriallaf2018
 
-api: 3.0.0
 
-[عدل]
+
